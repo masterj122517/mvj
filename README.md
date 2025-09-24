@@ -1,0 +1,4 @@
+- [x] Using SDL to create a window
+- [ ] using portaudio to process the audio(2 options from mic or or .wav .mp3 ... file(using sndfile))
+- [ ] Using fftw to do the math 
+- [ ] present the colorful waves on SDL
